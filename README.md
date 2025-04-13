@@ -41,11 +41,6 @@ Special thanks to the **Moroccan Data Science (MDS)** community for their suppor
 
 ---
 
-### 📌 Summary of this `README.md`:
-1. ✅ Project overview, features, and tools used.  
-2. 🔗 Links to the Colab notebook and Hugging Face demo.  
-3. 🧩 Instructions on how to clone the project and set it up locally.  
-4. 📚 References to libraries and datasets used.  
-5. 🎉 A clear conclusion and appreciation for the team and community.
+
 
 Feel free to fork, star ⭐, or contribute to the project!
