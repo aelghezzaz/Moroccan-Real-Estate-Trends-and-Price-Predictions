@@ -32,3 +32,20 @@ To clone this project to your local machine, follow these steps:
 2. Run the following command to clone the repository:
    ```bash
    git clone https://github.com/your-username/real-estate-price-prediction.git
+
+## Conclusion 🎉  
+This project provides a comprehensive approach to predicting Moroccan real estate prices using data science and machine learning. Dive into the code and try out the predictions through our interactive demos on **Colab** and **Hugging Face**!
+
+## Acknowledgments 🙏  
+Special thanks to the **Moroccan Data Science (MDS)** community for their support, and to my amazing team members for their dedication and hard work.
+
+---
+
+### 📌 Summary of this `README.md`:
+1. ✅ Project overview, features, and tools used.  
+2. 🔗 Links to the Colab notebook and Hugging Face demo.  
+3. 🧩 Instructions on how to clone the project and set it up locally.  
+4. 📚 References to libraries and datasets used.  
+5. 🎉 A clear conclusion and appreciation for the team and community.
+
+Feel free to fork, star ⭐, or contribute to the project!
